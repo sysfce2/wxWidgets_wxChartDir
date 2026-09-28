@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.3] - 2026-09-28
+
+### Changed
+
+- Update to ChartDirector 7.1
+
 ## [2.0.2] - 2025-01-14
 
 ### Changed
@@ -42,7 +48,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 First public release
 
-[Unreleased]: ../../compare/v2.0.2...HEAD
+[Unreleased]: ../../compare/v2.0.3...HEAD
+[2.0.3]: ../../compare/v2.0.2...v2.0.3
 [2.0.2]: ../../compare/v2.0.1...v2.0.2
 [2.0.1]: ../../compare/v2.0.0...v2.0.1
 [2.0.0]: ../../compare/v1.0.0...v2.0.0
